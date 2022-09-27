@@ -1,12 +1,15 @@
-[
-  {
-    "id": 1,
-    "name": "Tor Poznań",
-    "length": "4km"
-  },
-  {
-    "id": 2,
-    "name": "Silesia Ring",
-    "length": "3,6km"
+{
+  "tracks": [
+    { "id": 1, "name": "Tor Poznań", "length": "4km" },
+    { "id": 2, "name": "Silesia Ring", "length": "3,6km" },
+    { "id": 3, "name": "Moto Park Ułęż", "length": "2,5km" },
+  ],
+  "locations": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 2 },
+    { "id": 2, "body": "some comment", "postId": 3 }
+  ],
+  "desc": {
+    "name": "typicode"
   }
-  ]
+}
