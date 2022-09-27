@@ -7,6 +7,11 @@
   "locations": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 2 },
-    { "id": 2, "body": "some comment", "postId": 3 }
+    { "id": 3, "body": "some comment", "postId": 3 }
+  ],
+  "details": [
+    { "id": 1, "body": "Największy i najnowocześniejszy tor wyścigowy w Polsce mieści się na terenie byłego lotniska Ławica w Poznaniu. Ma długość 4085 m i szerokość 12 m. Jego częścią jest też mierzący prawie 1,5 kilometra tor kartingowy. Na trasie znajduje się 11 zakrętów oraz kilka długich odcinków. Całość pokryta jest świetnej jakości asfaltową nawierzchnią, która pozwala na osiąganie prędkości przekraczających 140 km/h. Obiekt posiada światową homologację FIA oraz europejską UEM, co stwarza możliwość organizacji profesjonalnych imprez sportowych. Swoje umiejętności prezentowali tu między innymi Michael Schumacher, Lewis Hamilton oraz Robert Kubica.", "postId": 1 },
+    { "id": 2, "body": "Kolejny duży i w pełni profesjonalny tor dla fanów motosportu znajduje się na terenie lotniska w Kamieniu Śląskim niedaleko Opola. Uruchomiony w 2016 roku obiekt jest jednym z najnowocześniejszych w kraju. Długość 3,6 km i łączna powierzchnia ponad 300 hektarów czyni go drugim co do wielkości torem wyścigowym w Polsce. Szerokość asfaltowej nawierzchni wynosi od 12 do 15 metrów. Najdłuższy prosty odcinek liczy 0,73 km, a na trasie znajduje się w sumie 15 zakrętów. Bezpieczną jazdę przy dużych prędkościach umożliwia nowoczesny system odprowadzania wody, barierki energochłonne oraz pułapki żwirowe. Tor posiada rozbudowane zaplecze z boksami serwisowymi, wieżą startową oraz budynkiem biznesowo-konferencyjnym z pokojami dla VIP-ów.", "postId": 2 },
+    { "id": 3, "body": "Fanom wyścigów samochodowych dobrze znany jest także tor, który powstał na miejscu dawnego lotniska szkoleniowego Ułęż położonego około 50 km od Lublina. Asfaltowa nitka toru głównego ma 2,5 km długości, 30 metrów szerokości i dysponuje pięcioma zakrętami. Jest tu też płyta slalomowa o wymiarach 500 x 600 m i trzy płyty poślizgowe. Obiekt wyposażony jest w zaplecze gastronomiczne i pozwala na organizację różnego rodzaju imprez sportowych, zlotów samochodowych i innych eventów. Na co dzień działa tu ośrodek doskonalenia technik jazdy.", "postId": 3 }
   ]
 }
