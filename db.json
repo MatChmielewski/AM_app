@@ -5,9 +5,9 @@
     { "id": 3, "name": "Moto Park Ułęż", "length": "2,5km" }
   ],
   "locations": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 2 },
-    { "id": 3, "body": "some comment", "postId": 3 }
+    { "id": 1, "lat": 52.42, "lng": 16.8, "postId": 1 },
+    { "id": 2, "lat": 50.55, "lng": 18.09, "postId": 2 },
+    { "id": 3, "lat": 51.62, "lng": 22.1, "postId": 3 }
   ],
   "details": [
     { "id": 1, "body": "Największy i najnowocześniejszy tor wyścigowy w Polsce mieści się na terenie byłego lotniska Ławica w Poznaniu. Ma długość 4085 m i szerokość 12 m. Jego częścią jest też mierzący prawie 1,5 kilometra tor kartingowy. Na trasie znajduje się 11 zakrętów oraz kilka długich odcinków. Całość pokryta jest świetnej jakości asfaltową nawierzchnią, która pozwala na osiąganie prędkości przekraczających 140 km/h. Obiekt posiada światową homologację FIA oraz europejską UEM, co stwarza możliwość organizacji profesjonalnych imprez sportowych. Swoje umiejętności prezentowali tu między innymi Michael Schumacher, Lewis Hamilton oraz Robert Kubica.", "postId": 1 },
